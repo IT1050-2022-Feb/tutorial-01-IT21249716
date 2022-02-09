@@ -15,8 +15,9 @@ int main() {
    scanf("%d",&value3);
    
    sum = value1 + value2;
+   printf("Total mark  of the student",sum);
    avg = sum/2;
-   printf("Average mark  of the student");
+   printf("Average mark  of the student",avg);
   
   return 0;
 }
